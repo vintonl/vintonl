@@ -1,28 +1,25 @@
-💻 Welcome to My GitHub Profile! 🌟
+💻 Hey there! Welcome to my GitHub profile! 🌟
 
-Hi there! I'm Vinton Lee, a Software engineer passionate about building innovative tech solutions.
+I'm Vinton Lee, a software engineer passionate about crafting cool tech solutions that make a difference! 
 
-:technologist: About Me
+:technologist: A Little About Me
 
-- 🌍 Location: Denver, CO
-- 🎓 Education/Background:
-  - BBA in Business and Marketing from Texas Tech University
-  - MA in Leadership from Fuller Seminary
-  - Full Stack Developer trained at Skill Distillery Bootcamp
-- 🚀 Current Focus: working on Kafka backend microservices and migrating legacy code to microservices
-- 💡 Interests: outside of tech, my hobbies are cooking and getting outside often, whether it's cycling, fishing, or skiing 
+- 🌍 Currently calling Denver, CO home!
+🎓 My journey has taken me from a BBA in Business and Marketing at Texas Tech University to an MA in Leadership from Fuller Seminary. I also graduated as a Full-Stack Developer from Skill Distillery Bootcamp!
+- 🚀 Right now, I'm diving deep into Kafka backend microservices and modernizing legacy code – such an exciting challenge!
+- 💡 When I'm not coding, you’ll find me in the kitchen whipping up some delicious meals, or enjoying the great outdoors through cycling, fishing, or skiing!
 
-🛠️ Tech Stack
+🛠️ My Tech Stack
 
 - Languages: Kotlin, Java, Vue.js, Angular
-- Frameworks & Libraries: Spring, Spring Boot 
-- Tools & Platforms: Git, Docker, AWS
+- Frameworks: Spring, Spring Boot
+- Tools: Git, Docker, AWS
 
-:desktop_computer: Professional GitHub Account
+:desktop_computer: Check out my professional GitHub: [Pax8](https://github.com/vleepax8)
 
-- Pax8: [vleepax8](https://github.com/vleepax8)
-
-🔗 Connect With Me
+🔗 Let’s connect!
 
 - [LinkedIn](https://www.linkedin.com/in/vintonlee/)
-- [Personal Website](https://vintonlee.dev/)
+- [Personal Website](https://vintonlee.dev/) 
+
+Can’t wait to connect with you! 😊
