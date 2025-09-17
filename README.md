@@ -6,7 +6,7 @@ I'm Vinton Lee, a software engineer passionate about crafting cool tech solution
 
 - 🌍 Currently calling Denver, CO home!
 - 🎓 My journey has taken me from a BBA in Business and Marketing at Texas Tech University to an MA in Leadership from Fuller Seminary. I also graduated as a Full-Stack Developer from Skill Distillery Bootcamp!
-- 🚀 Right now, I'm diving deep into Kafka backend microservices and modernizing legacy code. It's such an exciting challenge!
+- 🚀 Right now, I'm diving deep into Kafka, microservices, and modernizing legacy code. It's such an exciting challenge!
 - 💡 When I'm not coding, I’m in the kitchen whipping up delicious meals or enjoying the great outdoors through cycling, fishing, or skiing!
 
 🛠️ My Tech Stack
